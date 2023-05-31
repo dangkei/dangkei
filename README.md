@@ -1,15 +1,14 @@
-###  👋 [about me](http://dangkei.github.io/about)
-<!--
-**dangkei/dangkei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  👋 [程序员大黄蜂](http://dangkei.github.io/about)
 
-Here are some ideas to get you started:
+[![Mail Badge](https://img.shields.io/badge/-dangkei@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dangkei@163.com)](mailto:dangkei@163.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 目前职业: Java开发工程师
+- 📫 联系方式: dangkei@163.com
+- 😄 现居住地: 北京
+
+<p align="left"> 
+  访问量（始于2021年09月12日）<br><br>
+  <img src="https://profile-counter.glitch.me/zq2599/count.svg" />
+  <br>
+</p>
