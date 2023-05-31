@@ -7,8 +7,3 @@
 - 📫 联系方式: dangkei@163.com
 - 😄 现居住地: 北京
 
-<p align="left"> 
-  访问量（始于2021年09月12日）<br><br>
-  <img src="https://profile-counter.glitch.me/zq2599/count.svg" />
-  <br>
-</p>
